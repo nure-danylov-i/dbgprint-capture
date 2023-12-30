@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (debug-string.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\vboxuser\source\repos\debug-string\debug-string\main.cpp(69,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\vboxuser\source\repos\debug-string\debug-string\main.cpp(98,30): warning C4311: 'type cast': pointer truncation from 'HMENU' to 'UINT'
+C:\Users\vboxuser\source\repos\debug-string\debug-string\main.cpp(98,30): warning C4302: 'type cast': truncation from 'HMENU' to 'UINT'
+C:\Users\vboxuser\source\repos\debug-string\debug-string\main.cpp(167,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  debug-string.vcxproj -> C:\Users\vboxuser\source\repos\debug-string\x64\Debug\dbgprint-capture.exe

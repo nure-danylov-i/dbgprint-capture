@@ -1,0 +1,8 @@
+﻿  Building 'dbgprint-capture-driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  main.cpp
+  dbgprint-capture-driver.vcxproj -> C:\Users\vboxuser\source\repos\debug-string\x64\Debug\dbgprint-capture-driver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\vboxuser\source\repos\debug-string\x64\Debug\dbgprint-capture-driver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
